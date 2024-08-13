@@ -11,9 +11,7 @@ im planning on joining the cybersecurity/tech industry, im really interested in 
 <a href="https://www.x.com/b00d2003" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/b00d2003?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Aboodedaboss" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Aboodedaboss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/EncrefyOFFICIAL " target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/EncrefyOFFICIAL ?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
+src="https://img.shields.io/github/followers/Aboodedaboss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -37,7 +35,7 @@ src="https://img.shields.io/twitch/status/EncrefyOFFICIAL ?logo=twitchsx&style=f
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/b00d#2862" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> </a> <a href="https://www.github.com/Aboodedaboss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </a> <a href="https://www.linkedin.com/in/abdulrahman-mashnouq/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/Aboodedaboss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/17775486/aboodedaboss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://discord.com/users/b00d.2003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> </a> <a href="https://www.github.com/Aboodedaboss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </a> <a href="https://www.linkedin.com/in/abdulrahman-mashnouq/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/Aboodedaboss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/17775486/aboodedaboss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 </p>
 
 ### Badges
