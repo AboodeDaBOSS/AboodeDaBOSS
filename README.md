@@ -8,7 +8,7 @@ im planning on joining the cybersecurity/tech industry, im really interested in 
 
 * 🧠  I'm learning Python and Javascript and Swift
 
-<a href="https://www.twitter.com/Aboodedaboss" target="_blank" rel="noreferrer"><img
+<a href="https://www.x.com/b00d2003" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Aboodedaboss?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/Aboodedaboss" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Aboodedaboss?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/EncrefyOFFICIAL " target="_blank" rel="noreferrer"><img
